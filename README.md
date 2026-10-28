@@ -7,3 +7,5 @@ Online-Rechner der WHW-Hillebrand-Gruppe zur betrieblichen Altersvorsorge (HVM �
 - `dashboard.html`: Weiterleitung auf den Rechner (frühere Informationsübersicht, 03/2026)
 
 Der Rechner läuft vollständig im Browser – es werden keine Daten gespeichert oder übertragen.
+
+**Nicht löschen:** Die Ordner `&alias=whw-bav-rechner/` und `video/&alias=whw-bav-video/` sind die tatsächlichen Ziele der Kurz-URLs (beim Anlegen hat TinyURL den Alias-Parameter in die Zieladresse übernommen; Kurz-URLs sind nicht änderbar). Beide leiten auf Rechner bzw. Erklärvideo weiter.
